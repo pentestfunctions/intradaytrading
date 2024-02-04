@@ -2,7 +2,8 @@
 # 📈 Stock Analysis Tool
 
 This Python-based tool is designed to analyze stock performance by employing various strategies, with a focus on maximizing profits through optimal buy and sell times. It utilizes historical data from Yahoo Finance and allows users to test different scenarios with an array of customization options.
-- Specifically it uses the 5 minute intraday trading data and bruteforces the best buy/sell times for a single buy/sell per day based on the weekday. 
+- Specifically it uses the 5 minute intraday trading data and bruteforces the best buy/sell times for a single buy/sell per day based on the weekday.
+- The main goal was to try and identify potential best hold times and windows based on weekdays and activity rather than candle patterns. 
 
 
 <p align="center">
