@@ -84,7 +84,7 @@ all_tickers = [
     "ABBV", "CMCSA", "GOOGL", "JNJ", "MO", "ORCL", "PYPL", "TM", "VZ", "ABT",
     "CSCO", "HSBC", "JPM", "MRK", "PEP", "RTX", "TMUS", "WFC", "AMZN", "CVX",
     "IBM", "KO", "NIO", "PFE", "SONY", "TSLA", "WMT", "MSFT", "NFLX", "AMD",
-    "NVDA", "FB", "BA", "LMT", "GILD", "BIIB", "MDT", "BMY", "GE", "DAL",
+    "NVDA", "BA", "LMT", "GILD", "BIIB", "MDT", "BMY", "GE", "DAL",
     "LUV", "AAL", "CAT", "DE", "GS", "MS", "C", "BLK", "SQ", "ZM", "SPOT",
     "ADBE", "CRM", "TMO", "UNH", "MCD", "V", "MA", "HD", "LOW", "SBUX"
 ]
@@ -131,7 +131,6 @@ ticker_details = {
     "NFLX": "Netflix, Inc. - An American content platform and production company offering subscription streaming service.",
     "AMD": "Advanced Micro Devices, Inc. - An American multinational semiconductor company that develops computer processors and related technologies.",
     "NVDA": "NVIDIA Corporation - An American multinational technology company incorporated in Delaware and based in Santa Clara, California. It designs graphics processing units (GPUs) for gaming and professional markets.",
-    "FB": "Meta Platforms, Inc. (formerly Facebook, Inc.) - An American multinational technology conglomerate holding company and social media and social networking service.",
     "BA": "The Boeing Company - An American multinational corporation that designs, manufactures, and sells airplanes, rotorcraft, rockets, satellites, and telecommunications equipment.",
     "LMT": "Lockheed Martin Corporation - An American aerospace, defense, arms, security, and advanced technologies company.",
     "GILD": "Gilead Sciences, Inc. - A biopharmaceutical company that researches, develops, and commercializes drugs.",
